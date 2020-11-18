@@ -1,8 +1,9 @@
+-->
 <div class="flex-auto bg-gray-100 ">
   <div class="relative py-3 sm:max-w-xl sm:mx-auto">
     <div class="relative bg-white shadow-lg rounded-xl">
-          <div class="relative float-right pr-2 pt-2">
-            <div class="pr-0 h-8 w-8 bg-white hover:bg-teal-100 rounded-3xl ">
+          <div class="relative float-right pr-2 pt-3">
+            <div class="pr-0 h-6 w-6 bg-white hover:bg-teal-100 rounded-3xl ">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" class="opacity-75" viewBox="1 2 22 28" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7" />
             </svg>
